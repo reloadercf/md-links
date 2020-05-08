@@ -1,3 +1,4 @@
-let { extraer } = require('./lib/extractor.js')
+//let { extraer } = require('./lib/extractor.js')
+let { consulterUrl } = require('./lib/consulter')
 
-extraer()
+consulterUrl("https://carlosfer.com")
