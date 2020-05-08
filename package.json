@@ -12,6 +12,7 @@
     "dependencies": {
         "jest": "^26.0.1",
         "markdown-link-extractor": "^1.2.3",
-        "node-fetch": "^2.6.0"
+        "node-fetch": "^2.6.0",
+        "yargs": "^15.3.1"
     }
 }
