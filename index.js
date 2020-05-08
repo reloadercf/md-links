@@ -1,4 +1,14 @@
-//let { extraer } = require('./lib/extractor.js')
-let { consulterUrl } = require('./lib/consulter')
+// const argv = require('./config/yargs').argv
 
-consulterUrl("https://carlosfer.com")
+// let comando = argv._[0];
+
+// switch (comando) {
+//     case 'validate':
+//         console.log('validate')
+//         break;
+//     case 'stats':
+//         console.log('stats')
+//         break;
+//     default:
+//         console.log('you need --help')
+// }
